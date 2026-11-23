@@ -1,0 +1,10 @@
+
+dist/
+.venv/
+__pycache__/
+bin/
+obj/
+.env
+.env.*
+!.env.example
+/appsettings.Development.json
